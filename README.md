@@ -107,7 +107,7 @@ RETURN DIVIDE(CurrentMonth - LastMonth, LastMonth) * 100
 
 | Insight | Action Taken |
 |---|---|
-| DT (Deep Tawa) was the top-selling product | Increased stock priority for DT |
+| DT (Dosa Tawa) was the top-selling product | Increased stock priority for DT |
 | Appam & Grill Pan had lowest sales volume | Identified as slow-moving inventory |
 | Amrit Ji & Pankaj Ji were top customers | Prioritized relationship management |
 | Monthly Growth measure revealed seasonal dips | Helped plan restocking and promotions |
